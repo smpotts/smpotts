@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-I’m Shelby, a data focused backend software engineer. 
+I’m Shelby, a data focused software engineer. 
 
-I'm currently working at [eSpark Learning](https://www.esparklearning.com/) helping students K-5 in reading and math. I work on the Data & Infrastructure team using technologies ranging from Ruby on Rails, AWS, dbt, Redshift, Postgres, Python, and occasionally Terraform.
+I'm currently working at [eSpark Learning](https://www.esparklearning.com/) helping students K-5 in reading and math. I work as a Senior Data Engineer on the Data & Infrastructure team using technologies ranging from AWS, dbt, Redshift, Postgres, Ruby on Rails, Python, and occasionally Terraform.
 
 In my free time I like experimenting with new technologies, analyzing interesting data sets, and hacking away on some of my pet projects. Right now I'm interested in web scraping and visualizing data with the Dash Plotly framework in Python. I'm also trying to get more proficient in R.
 
