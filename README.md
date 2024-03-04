@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I’m Shelby, a data focused software engineer. 
+I’m Shelby, a data focused senior software engineer. 
 
 I'm currently working at [eSpark Learning](https://www.esparklearning.com/) helping students K-5 in reading and math. I work as a Senior Data Engineer on the Data & Infrastructure team using technologies ranging from AWS, dbt, Redshift, Postgres, Ruby on Rails, Python, and occasionally Terraform.
 
