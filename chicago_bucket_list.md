@@ -25,6 +25,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Concert at the Aragon Ballroom
 - [ ] Chess Record Store
 - [ ] 606 Record Store
+- [X] Take a class at the Old Town School of Folk Music
 
 ### Restaurants/ Bars
 - [X] Alhambra's Palace
@@ -33,6 +34,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Pilot Project Brewing
 - [ ] CH Distillery
 - [ ] Cindy's Rooftop
+- [ ] Sinha Elegant Brazilian Cuisine
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
@@ -46,7 +48,7 @@ My bucket list of things I want to do in my first year in Chicago.
 
 ### Misc.
 - [X] Montrose Dog Beach
-- [X] Check out the Printers Row Farmers Market
+- [X] Printers Row Farmers Market
 - [ ] Walk the Chicago River Walk
 - [X] Run the Chicago Lakefront Trail  
 - [ ] Get a tattoo
@@ -54,4 +56,3 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] Navy Pier
 - [ ] Lincoln Park Zoo  
 - [ ] Kayaking on the Chicago River
-- [X] Take a class at the Old Town School of Folk Music
