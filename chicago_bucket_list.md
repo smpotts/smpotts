@@ -22,7 +22,9 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] The Shedd Aquarium Jazz Series
 - [ ] The Chicago Symphony Orchestra
 - [ ] Old Town School of Folk concert
-- [ ] Concert at the Aragon Ballroom
+- [ ] Pitchfork Music Festival
+- [ ] Concert at Aragon Ballroom
+- [ ] Riot Fest
 - [ ] Chess Record Store
 - [ ] 606 Record Store
 - [ ] Reckless Records
@@ -45,21 +47,20 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Printers Row Art Fest  
 - [ ] Chicago Cubs game at Wrigley Field
 - [ ] Chicago Blackhawks game at the United Center
-- [ ] Chicago Theatre
-- [ ] Second City
-- [ ] Neo-Futurists
+- [ ] See a show at Chicago Theatre
+- [ ] See a Second City show
+- [ ] See a Neo-Futurists show
 - [ ] Run a race in Chicago
-- [ ] Pitchfork Music Festival
-- [ ] Concert at Aragon Ballroom
 
 ### Misc.
 - [X] Montrose Dog Beach
 - [X] Printers Row Farmers Market
 - [ ] Walk the Chicago River Walk
 - [X] Run the Chicago Lakefront Trail  
-- [ ] Get a tattoo in Chicago
+- [ ] Get tattooed in Chicago
 - [ ] Chicago Architecture Boat Tour
-- [X] China Town
-- [X] Navy Pier
-- [ ] Lincoln Park Zoo  
-- [ ] Kayaking on the Chicago River
+- [X] Walk around Chinatown
+- [X] Check out Navy Pier
+- [ ] Check out Lincoln Park Zoo  
+- [ ] Kayak on the Chicago River
+- [ ] Korean market
