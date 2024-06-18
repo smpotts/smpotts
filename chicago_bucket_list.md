@@ -7,7 +7,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] The Museum of Science and Industry
 - [ ] Chicago Cultural Center
 - [ ] Shedd Aquarium  
-- [ ] The Adler Planetarium
+- [X] The Adler Planetarium
 - [ ] Chicago History Museum  
 - [ ] Chicago Botanic Garden  
 - [ ] Garfield Park Conservatory  
