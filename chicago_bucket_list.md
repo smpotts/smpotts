@@ -37,7 +37,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] Serai 
 - [ ] Pilot Project Brewing
 - [ ] CH Distillery
-- [ ] Cindy's Rooftop
+- [X] Cindy's Rooftop
 - [ ] Sinha Elegant Brazilian Cuisine
 - [X] Midwest Coast Brewing Company
 - [ ] Kasey's Tavern
