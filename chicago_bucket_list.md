@@ -49,7 +49,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Chicago Blackhawks game at the United Center
 - [ ] See a show at Chicago Theatre
 - [ ] See a Second City show
-- [ ] See a Neo-Futurists show
+- [X] See a Neo-Futurists show
 - [ ] Run a race in Chicago
 
 ### Misc.
