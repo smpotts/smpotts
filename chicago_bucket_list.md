@@ -34,13 +34,25 @@ My bucket list of things I want to do in my first year in Chicago.
 ### Restaurants/ Bars
 - [X] Alhambra's Palace
 - [ ] TAMA
-- [X] Serai 
 - [ ] Pilot Project Brewing
 - [ ] CH Distillery
 - [X] Cindy's Rooftop
 - [ ] Sinha Elegant Brazilian Cuisine
 - [X] Midwest Coast Brewing Company
 - [ ] Kasey's Tavern
+- [ ] Bienmesabe Arepas
+- [ ] French Market at Ogilvie
+- [ ] Minghin Dim Sum
+- [ ] Xian Cuisine
+- [ ] Lao Sze Chuan
+- [ ] Joy Yee Bubble Tea
+- [ ] Happy Lamb Hot Pot
+- [ ] Chiu Quon Bakery
+- [ ] Dove's Luncheonette
+- [ ] Big Star
+- [ ] Handlebar
+- [ ] Longman & Eagle
+- [ ] Billy Sunday
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
@@ -55,7 +67,7 @@ My bucket list of things I want to do in my first year in Chicago.
 ### Misc.
 - [X] Montrose Dog Beach
 - [X] Printers Row Farmers Market
-- [ ] Walk the Chicago River Walk
+- [X] Walk the Chicago River Walk
 - [X] Run the Chicago Lakefront Trail  
 - [ ] Get tattooed in Chicago
 - [ ] Chicago Architecture Boat Tour
