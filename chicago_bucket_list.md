@@ -39,7 +39,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] Cindy's Rooftop
 - [ ] Sinha Elegant Brazilian Cuisine
 - [X] Midwest Coast Brewing Company
-- [ ] Kasey's Tavern
+- [X] Kasey's Tavern
 - [ ] Bienmesabe Arepas
 - [ ] French Market at Ogilvie
 - [ ] Minghin Dim Sum
@@ -70,6 +70,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] Walk the Chicago River Walk
 - [X] Run the Chicago Lakefront Trail  
 - [ ] Get tattooed in Chicago
+- [X] Walk the 606 Trail
 - [ ] Chicago Architecture Boat Tour
 - [X] Walk around Chinatown
 - [X] Check out Navy Pier
