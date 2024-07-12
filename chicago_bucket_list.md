@@ -24,6 +24,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Old Town School of Folk concert
 - [ ] Pitchfork Music Festival
 - [ ] Concert at Aragon Ballroom
+- [ ] Green Mill
 - [ ] Riot Fest
 - [ ] Chess Record Store
 - [ ] 606 Record Store
