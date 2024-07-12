@@ -17,4 +17,4 @@ Places I've played and things that are on my Chicago tennis todo list.
 - [X] Play on a league team
 - [ ] Clay courts at XS Tennis Center
 - [ ] Check out the Diversey clay courts
-- [ ] Play in a tournament
+- [X] Play in a tournament
