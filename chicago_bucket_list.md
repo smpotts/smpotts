@@ -22,9 +22,9 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] The Shedd Aquarium Jazz Series
 - [ ] The Chicago Symphony Orchestra
 - [ ] Old Town School of Folk concert
-- [ ] Pitchfork Music Festival
+- [X] Pitchfork Music Festival
 - [ ] Concert at Aragon Ballroom
-- [ ] Green Mill
+- [X] Green Mill
 - [ ] Riot Fest
 - [ ] Chess Record Store
 - [ ] 606 Record Store
