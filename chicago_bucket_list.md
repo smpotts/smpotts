@@ -35,7 +35,7 @@ My bucket list of things I want to do in my first year in Chicago.
 ### Restaurants/ Bars
 - [X] Alhambra's Palace
 - [ ] TAMA
-- [ ] Pilot Project Brewing
+- [X] Pilot Project Brewing
 - [ ] CH Distillery
 - [X] Cindy's Rooftop
 - [ ] Sinha Elegant Brazilian Cuisine
@@ -54,6 +54,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Handlebar
 - [ ] Longman & Eagle
 - [ ] Billy Sunday
+- [ ] Bronzeville Winery
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
