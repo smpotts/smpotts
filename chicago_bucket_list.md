@@ -54,7 +54,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Handlebar
 - [ ] Longman & Eagle
 - [ ] Billy Sunday
-- [ ] Bronzeville Winery
+- [X] Bronzeville Winery
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
