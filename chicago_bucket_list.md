@@ -53,12 +53,12 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Big Star
 - [ ] Handlebar
 - [ ] Longman & Eagle
-- [ ] Billy Sunday
+- [X] Billy Sunday
 - [X] Bronzeville Winery
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
-- [ ] Printers Row Art Fest  
+- [X] Printers Row Art Fest  
 - [ ] Chicago Cubs game at Wrigley Field
 - [ ] Chicago Blackhawks game at the United Center
 - [ ] See a show at Chicago Theatre
