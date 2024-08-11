@@ -55,6 +55,9 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Longman & Eagle
 - [X] Billy Sunday
 - [X] Bronzeville Winery
+- [ ] Brando's Speakeasy
+- [ ] The Green Door Tavern
+- [ ] Map Room
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
