@@ -10,7 +10,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] The Adler Planetarium
 - [ ] Chicago History Museum  
 - [ ] Chicago Botanic Garden  
-- [ ] Garfield Park Conservatory  
+- [X] Garfield Park Conservatory  
 - [ ] Illinois Holocaust Museum 
 - [ ] Institute for the Study of Ancient Cultures, West Asia & North Africa
 - [ ] DuSable Museum of African American History
@@ -28,7 +28,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Riot Fest
 - [ ] Chess Record Store
 - [ ] 606 Record Store
-- [ ] Reckless Records
+- [X] Reckless Records
 - [ ] Sofar Sounds concert
 - [X] Take a class at the Old Town School of Folk Music
 
@@ -51,13 +51,13 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Chiu Quon Bakery
 - [ ] Dove's Luncheonette
 - [ ] Big Star
-- [ ] Handlebar
+- [X] Handlebar
 - [ ] Longman & Eagle
 - [X] Billy Sunday
 - [X] Bronzeville Winery
 - [ ] Brando's Speakeasy
 - [ ] The Green Door Tavern
-- [ ] Map Room
+- [X] Map Room
 
 ### Events/ Shows
 - [ ] Printers Row Lit Fest
@@ -74,7 +74,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] Printers Row Farmers Market
 - [X] Walk the Chicago River Walk
 - [X] Run the Chicago Lakefront Trail  
-- [ ] Get tattooed in Chicago
+- [X] Get tattooed in Chicago
 - [X] Walk the 606 Trail
 - [ ] Chicago Architecture Boat Tour
 - [X] Walk around Chinatown
