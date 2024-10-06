@@ -23,9 +23,9 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] The Chicago Symphony Orchestra
 - [ ] Old Town School of Folk concert
 - [X] Pitchfork Music Festival
-- [ ] Concert at Aragon Ballroom
+- [X] Concert at Aragon Ballroom
 - [X] Green Mill
-- [ ] Riot Fest
+- [X] Riot Fest
 - [ ] Chess Record Store
 - [ ] 606 Record Store
 - [X] Reckless Records
@@ -58,9 +58,10 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Brando's Speakeasy
 - [ ] The Green Door Tavern
 - [X] Map Room
+- [X] Moody Tongue
 
 ### Events/ Shows
-- [ ] Printers Row Lit Fest
+- [X] Printers Row Lit Fest
 - [X] Printers Row Art Fest  
 - [ ] Chicago Cubs game at Wrigley Field
 - [ ] Chicago Blackhawks game at the United Center
@@ -76,7 +77,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [X] Run the Chicago Lakefront Trail  
 - [X] Get tattooed in Chicago
 - [X] Walk the 606 Trail
-- [ ] Chicago Architecture Boat Tour
+- [X] Chicago Architecture Boat Tour
 - [X] Walk around Chinatown
 - [X] Check out Navy Pier
 - [ ] Check out Lincoln Park Zoo  

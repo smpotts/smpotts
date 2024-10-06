@@ -13,6 +13,7 @@ Places I've played and things that are on my Chicago tennis todo list.
 - Waveland Park
 - Lerner Park
 - Maggie Daley Park
+- Smith Park
 
 ## Chicago Tennis TODO list 
 - [X] Play on a league team
