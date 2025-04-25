@@ -29,7 +29,7 @@ My bucket list of things I want to do in my first year in Chicago.
 - [ ] Chess Record Store
 - [ ] 606 Record Store
 - [X] Reckless Records
-- [ ] Sofar Sounds concert
+- [X] Sofar Sounds concert
 - [X] Take a class at the Old Town School of Folk Music
 
 ### Restaurants/ Bars
